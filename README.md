@@ -1,2 +1,1 @@
-# repo
-repositorio para github
+este proyecto es una prueba de como podemos crear un repositorio desde github y clonarlo a nuestra compu
